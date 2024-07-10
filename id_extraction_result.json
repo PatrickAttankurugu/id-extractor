@@ -1,0 +1,23 @@
+{
+  "full_text": "Here is the extracted text from the ID card image:\n\n---\n\n**ELECTORAL COMMISSION OF GHANA**\n**VOTER CARD**\n\nSurname: **ATTANKURUGU**\n\nOthernames: **PATRICK AZUMA**\n\nSex: **MALE**\n\nDate of Birth: **1995/07/17**\n\nPolling Station Code: **C050614**\n\nDate of Registration: **2020/08/05**\n\nVoter Identification Number: **9292036865**\n\n---\n\nThe card also features a photograph of a person, a QR code, and the Ghana national flag.",
+  "structured_information": {
+    "country": "Ghana",
+    "authority": "Electoral Commission of Ghana",
+    "card_type": "Voter Card",
+    "full_name": {
+      "surname": "Attankurugu",
+      "othernames": "Patrick Azuma"
+    },
+    "gender": "Male",
+    "date_of_birth": "1995-07-17",
+    "id_number": "9292036865",
+    "issue_date": "2020-08-05",
+    "expiry_date": "Not found",
+    "polling_station_code": "C050614",
+    "additional_features": {
+      "photograph": true,
+      "qr_code": true,
+      "national_flag": true
+    }
+  }
+}
